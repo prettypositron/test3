@@ -1,1 +1,1 @@
-Sitemap: https://prettypositron.github.io/test3/sitemap.xml
+Sitemap: https://prettypositron.github.io/test3//sitemap.xml
